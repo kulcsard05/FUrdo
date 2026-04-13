@@ -1,0 +1,16 @@
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\bin\Debug\net8.0\StrandC.exe
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\bin\Debug\net8.0\strandadatok.txt
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\bin\Debug\net8.0\StrandC.deps.json
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\bin\Debug\net8.0\StrandC.runtimeconfig.json
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\bin\Debug\net8.0\StrandC.dll
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\bin\Debug\net8.0\StrandC.pdb
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\obj\Debug\net8.0\StrandC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\obj\Debug\net8.0\StrandC.AssemblyInfoInputs.cache
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\obj\Debug\net8.0\StrandC.AssemblyInfo.cs
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\obj\Debug\net8.0\StrandC.csproj.CoreCompileInputs.cache
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\obj\Debug\net8.0\StrandC.sourcelink.json
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\obj\Debug\net8.0\StrandC.dll
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\obj\Debug\net8.0\refint\StrandC.dll
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\obj\Debug\net8.0\StrandC.pdb
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\obj\Debug\net8.0\StrandC.genruntimeconfig.cache
+C:\Users\kulcs\Documents\GitHub\LLM,Neurolink\StrandC\StrandC\obj\Debug\net8.0\ref\StrandC.dll
